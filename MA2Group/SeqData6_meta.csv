@@ -1,0 +1,415 @@
+ACC,GenSp,SubSp,Strain1,Strain2,Gene,comments
+NR_044773.1 ,Mycoplasma eachii, ,PG50,,16S ribosomal RNA,partial sequence
+NR_074664.1 ,Mycoplasma apricolum, subsp. capricolum ,ATCC 27343,,16S ribosomal RNA,partial sequence
+NR_103928.1 ,Mycoplasma eachii, ,PG50,,16S ribosomal RNA,partial sequence
+NR_074703.2 ,Mycoplasma ycoides, subsp. mycoides,,strain PG1,16S ribosomal RNA,complete sequence
+NR_037061.1 ,Mycoplasma apricolum, subsp. capripneumoniae,,strain F38,16S ribosomal RNA,partial sequence
+NR_041931.1 ,Mesomycoplasma olare, ,,strain H542,16S ribosomal RNA,partial sequence
+NR_074611.1 ,Mycoplasma enitalium, ,,strain G-37,16S ribosomal RNA,partial sequence
+NR_028860.1 ,Williamsoniiplasma ucivorax, ,,strain PIPN-2,16S ribosomal RNA,partial sequence
+NR_041881.1 ,Mycoplasma ominis, ,ATCC 23114,strain PG21,16S ribosomal RNA,complete sequence
+NR_074603.1 ,Mycoplasma ominis, ,ATCC 23114,,16S ribosomal RNA,complete sequence
+NR_025707.1 ,Spiroplasma eptinotarsae, ,,strain LD-1B,16S ribosomal RNA,partial sequence
+NR_108494.1 ,Metamycoplasma eophronis, ,,strain G.A,16S ribosomal RNA,partial sequence
+NR_025697.1 ,Spiroplasma lleghenense, ,,strain PLHS-1,16S ribosomal RNA,partial sequence
+NR_025698.1 ,Spiroplasma hinense, ,,strain CCH,16S ribosomal RNA,partial sequence
+NR_025700.1 ,Spiroplasma orruscae, ,,strain EC-1,16S ribosomal RNA,partial sequence
+NR_025702.1 ,Spiroplasma iminutum, ,,strain CUAS-1,16S ribosomal RNA,partial sequence
+NR_025708.1 ,Spiroplasma itorale, ,,strain TN-1,16S ribosomal RNA,partial sequence
+NR_025710.1 ,Spiroplasma abaudiense, ,,strain Ar-1343,16S ribosomal RNA,partial sequence
+NR_025711.1 ,Spiroplasma yrphidicola, ,,strain EA-1,16S ribosomal RNA,partial sequence
+NR_025712.1 ,Spiroplasma uronicum, ,,strain Tab-4c,16S ribosomal RNA,partial sequence
+NR_074620.2 ,Mesomycoplasma obile, ,,strain 163K,16S ribosomal RNA,complete sequence
+NR_025699.1 ,Spiroplasma hrysopicola, ,,strain DF-1,16S ribosomal RNA,partial sequence
+NR_025701.1 ,Spiroplasma ulicicola, ,,strain AES-1,16S ribosomal RNA,partial sequence
+NR_025705.1 ,Spiroplasma nsolitum, ,,strain M55,16S ribosomal RNA,partial sequence
+NR_025706.1 ,Spiroplasma ampyridicola, ,,strain PUP-1,16S ribosomal RNA,partial sequence
+NR_025713.1 ,Spiroplasma elocicrescens, ,,strain MQ-4,16S ribosomal RNA,partial sequence
+NR_025756.1 ,Spiroplasma elliferum, ,,strain BC-3,16S ribosomal RNA,partial sequence
+NR_025709.1 ,Spiroplasma ontanense, ,,strain HYOS-1,16S ribosomal RNA,partial sequence
+NR_102850.2 ,Mycoplasmopsis ovis, ,,strain PG45,16S ribosomal RNA,complete sequence
+NR_036946.2 ,Mycoplasmopsis ovis, ,,strain Donetta,16S ribosomal RNA,complete sequence
+NR_042948.1 ,Mycoplasma mphoriforme, ,A39,,16S ribosomal RNA,partial sequence
+NR_043199.1 ,Metamycoplasma rale, ,,strain NC10112,16S ribosomal RNA,partial sequence
+NR_117836.1 ,Mycoplasma mphoriforme, ,A39,,16S ribosomal RNA,partial sequence
+NR_029183.1 ,Metamycoplasma yosynoviae, ,,strain S-16,16S ribosomal RNA,partial sequence
+NR_042854.1 ,Entomoplasma elaleucae, ,,strain M1,16S ribosomal RNA,partial sequence
+NR_025676.1 ,Williamsoniiplasma uminosum, ,,strain PIMN-1,16S ribosomal RNA,partial sequence
+NR_025960.1 ,Acholeplasma culi, ,,strain 19L,16S ribosomal RNA,partial sequence
+NR_026155.1 ,Mycoplasma enitalium, ,,strain G37,16S ribosomal RNA,partial sequence
+NR_025677.1 ,Williamsoniiplasma omnilux, ,,strain PYAN-1,16S ribosomal RNA,partial sequence
+NR_074301.1 ,Mycoplasma rocodyli, ,MP145,,16S ribosomal RNA,partial sequence
+NR_041751.1 ,Mycoplasma neumoniae, ,FH,strain ATCC 15531,16S ribosomal RNA,partial sequence
+NR_025180.1 ,Mycoplasmopsis ricetuli, ,,strain CH,16S ribosomal RNA,partial sequence
+NR_044674.2 ,Mycoplasmopsis ipophila, ,,strain MaBy,16S ribosomal RNA,partial sequence
+NR_044673.2 ,Metamycoplasma rthritidis, ,,strain PG6,16S ribosomal RNA,partial sequence
+NR_114636.1 ,Mesomycoplasma ollis, ,,strain 58B,16S ribosomal RNA,partial sequence
+NR_115318.1 ,Mycoplasma phenisci, ,,strain UCMJ,16S ribosomal RNA,partial sequence
+NR_044781.1 ,Mesomycoplasma onjunctivae, ,,strain HRC/583,16S ribosomal RNA,partial sequence
+NR_025961.1 ,Acholeplasma aidlawii, ,,strain PG8,16S ribosomal RNA,partial sequence
+NR_025989.1 ,Mesomycoplasma vipneumoniae, ,,strain Y-98,16S ribosomal RNA,partial sequence
+NR_025182.1 ,Mesomycoplasma ispar, ,,strain 462/2,16S ribosomal RNA,partial sequence
+NR_025987.1 ,Mesomycoplasma ovoculi, ,M165/69,,16S ribosomal RNA,partial sequence
+NR_044665.3 ,Mesomycoplasma eurolyticum, ,,strain ATCC 19988,16S ribosomal RNA,partial sequence
+NR_118703.1 ,Entomoplasma elaleucae, ,,strain M1,16S ribosomal RNA,partial sequence
+NR_104953.1 ,Mycoplasmopsis dwardii, ,,strain ATCC 23462,16S ribosomal RNA,partial sequence
+NR_025185.1 ,Mesomycoplasma agogenitalium, ,,strain 12MS,16S ribosomal RNA,partial sequence
+NR_024980.1 ,Metamycoplasma pumans, ,,strain PG13,16S ribosomal RNA,partial sequence
+NR_158114.1 ,Mycoplasma ullyi, ,,strain 56A97,16S ribosomal RNA,partial sequence
+NR_024984.1 ,Metamycoplasma alconis, ,,strain H/T1,16S ribosomal RNA,partial sequence
+NR_041744.1 ,Mycoplasmopsis ulmonis, ,,strain PG34,16S ribosomal RNA,partial sequence
+NR_041845.1 ,Mesomycoplasma yorhinis, ,,strain BTS7,16S ribosomal RNA,partial sequence
+NR_114637.1 ,Mesomycoplasma olare, ,,strain H542,16S ribosomal RNA,partial sequence
+NR_025896.1 ,Mycoplasma orogypsi, ,,strain BV1,16S ribosomal RNA,partial sequence
+NR_026036.1 ,Mycoplasma ottewii, ,,strain VIS,16S ribosomal RNA,partial sequence
+NR_026037.1 ,Mycoplasma eatsii, ,,strain GIH,16S ribosomal RNA,partial sequence
+NR_025064.1 ,Mycoplasmopsis ners, ,,strain PG30,16S ribosomal RNA,partial sequence
+NR_118700.1 ,Mycoplasma ominis, ,ATCC 23114,strain PG21,16S ribosomal RNA,partial sequence
+NR_025971.1 ,Mycoplasma utrefaciens, ,KS1,,16S ribosomal RNA,partial sequence
+NR_025988.1 ,Metamycoplasma anadense, ,,strain 275c,16S ribosomal RNA,partial sequence
+NR_025133.1 ,Metamycoplasma hocicerebrale, ,,strain 1049,16S ribosomal RNA,partial sequence
+NR_025135.1 ,[Mycoplasma] hocidae, ,,strain 105,16S ribosomal RNA,partial sequence
+NR_118794.1 ,Mycoplasma ycoides, subsp. capri,,strain PG3,16S ribosomal RNA,partial sequence
+NR_118795.1 ,Mycoplasma apricolum, subsp. capripneumoniae,,strain F38,16S ribosomal RNA,partial sequence
+NR_118796.1 ,Mycoplasma apricolum, subsp. capricolum ,ATCC 27343,,16S ribosomal RNA,partial sequence
+NR_118797.1 ,Mycoplasma eachii, ,PG50,,16S ribosomal RNA,partial sequence
+NR_041745.1 ,Metamycoplasma alivarium, ,,strain PG20,16S ribosomal RNA,partial sequence
+NR_044671.2 ,Mesomycoplasma obile, ,,strain 163K,16S ribosomal RNA,partial sequence
+NR_025984.1 ,Metamycoplasma lkalescens, ,,strain PG51,16S ribosomal RNA,partial sequence
+NR_026017.1 ,Mycoplasmopsis ullorum, ,,strain CKK,16S ribosomal RNA,partial sequence
+NR_024978.1 ,Metamycoplasma quirhinis, ,,strain M432/72,16S ribosomal RNA,partial sequence
+NR_024979.1 ,Metamycoplasma uccale, ,,strain CH20247,16S ribosomal RNA,partial sequence
+NR_044668.2 ,Mycoplasmopsis ovigenitalium, ,,strain PG11,16S ribosomal RNA,partial sequence
+NR_024981.1 ,Metamycoplasma ubdolum, ,,strain TB,16S ribosomal RNA,partial sequence
+NR_024982.1 ,Metamycoplasma ypis, ,,strain B1/T1,16S ribosomal RNA,partial sequence
+NR_025068.1 ,Mycoplasmopsis rimatum, ,,strain HRC292,16S ribosomal RNA,partial sequence
+NR_044664.2 ,Malacoplasma uris, ,,strain RIII-4,16S ribosomal RNA,partial sequence
+NR_026035.1 ,Metamycoplasma uris, ,,strain UIA,16S ribosomal RNA,partial sequence
+NR_024977.1 ,Metamycoplasma nseris, ,,strain 1219,16S ribosomal RNA,partial sequence
+NR_025186.1 ,Mesomycoplasma oatsii, ,,strain MK405,16S ribosomal RNA,partial sequence
+NR_044669.2 ,Malacoplasma owae, ,695,,16S ribosomal RNA,partial sequence
+NR_113672.1 ,Mesomycoplasma eurolyticum, ,,strain NBRC 14799,16S ribosomal RNA,partial sequence
+NR_025070.1 ,Mycoplasmopsis quigenitalium, ,,strain T37,16S ribosomal RNA,partial sequence
+NR_025071.1 ,Mycoplasma lephantis, ,,strain E42,16S ribosomal RNA,partial sequence
+NR_041743.1 ,Mycoplasmopsis rginini, ,,strain G230,16S ribosomal RNA,partial sequence
+NR_041846.1 ,Metamycoplasma ualvi, ,,strain Mayfield B,16S ribosomal RNA,partial sequence
+NR_044667.2 ,Mycoplasmopsis galactiae, ,PG2,,16S ribosomal RNA,partial sequence
+NR_024983.1 ,Metamycoplasma aucium, ,,strain DC333,16S ribosomal RNA,partial sequence
+NR_025066.1 ,Mycoplasmopsis aculosa, ,,strain PG15,16S ribosomal RNA,partial sequence
+NR_029181.1 ,Mycoplasma eliminutum, ,,strain Ben,16S ribosomal RNA,partial sequence
+NR_044666.2 ,Mycoplasmopsis ermentans, ,,strain PG18,16S ribosomal RNA,partial sequence
+NR_125608.1 ,Mycoplasmopsis erecunda, ,,strain ATCC 27862,16S ribosomal RNA,partial sequence
+NR_074845.1 ,Caldicellulosiruptor accharolyticus, ,,strain DSM 8903,16S ribosomal RNA,partial sequence
+NR_102893.1 ,Butyrivibrio roteoclasticus, ,,strain B316,16S ribosomal RNA,partial sequence
+NR_117173.1 ,Caldicoprobacter aecalis, ,,strain DSM 20678,16S ribosomal RNA,partial sequence
+NR_147776.1 ,Thermanaeromonas urensis, ,,strain IA 106,16S ribosomal RNA,partial sequence
+NR_151899.1 ,Desulforamulus errireducens, ,,strain GSS09,16S ribosomal RNA,partial sequence
+NR_159908.1 ,Desulfothermobacter cidiphilus, ,,strain 3408-1,16S ribosomal RNA,partial sequence
+NR_044284.1 ,Ammonifex hiophilus, ,,strain SR,16S ribosomal RNA,partial sequence
+NR_036878.1 ,Caldicellulosiruptor accharolyticus, ,,strain Tp8T.6331,16S ribosomal RNA gene,partial sequence
+NR_074807.1 ,Caldicellulosiruptor wensensis, ,OL,,16S ribosomal RNA,partial sequence
+NR_074809.1 ,Roseburia ominis, ,A2-183,,16S ribosomal RNA,partial sequence
+NR_165727.1 ,Anaerotignum aecicola, ,,strain KGMB03357,16S ribosomal RNA,complete sequence
+NR_029150.1 ,Halothermothrix renii, ,,strain H168,16S ribosomal RNA,partial sequence
+NR_170495.1 ,Blautia aecicola, ,,strain KGMB01111,16S ribosomal RNA,complete sequence
+NR_028740.1 ,Anaerocolumna ylanovorans, ,,strain HESP1,16S ribosomal RNA,partial sequence
+NR_042930.1 ,Acetanaerobacterium longatum, ,,strain Z7,16S ribosomal RNA,partial sequence
+NR_074788.1 ,Caldicellulosiruptor escii, ,,strain DSM 6725,16S ribosomal RNA,partial sequence
+NR_109421.1 ,Desulfosporosinus urensis, ,,strain BSREI1,16S ribosomal RNA,partial sequence
+NR_025551.1 ,Desulfosporosinus uripigmenti, ,,strain OREX-4,16S ribosomal RNA,partial sequence
+NR_040840.1 ,Pelotomaculum hermopropionicum, ,SI,,16S ribosomal RNA,partial sequence
+NR_074766.1 ,Caldicellulosiruptor bsidiansis, ,OB47,,16S ribosomal RNA,partial sequence
+NR_074767.1 ,Caldicellulosiruptor ydrothermalis, ,108,,16S ribosomal RNA,partial sequence
+NR_074768.1 ,Caldicellulosiruptor ristjanssonii, ,I77R1B,,16S ribosomal RNA,partial sequence
+NR_074769.1 ,Caldicellulosiruptor ronotskyensis, ,,strain 2002,16S ribosomal RNA,partial sequence
+NR_074772.1 ,Caldicellulosiruptor cetigenus, ,,strain 6A,16S ribosomal RNA,partial sequence
+NR_102969.1 ,Thermoanaerobacter seudethanolicus, ,,strain 39E,16S ribosomal RNA,partial sequence
+NR_171389.1 ,Blautia rgi, ,,strain KCTC 15426,16S ribosomal RNA,complete sequence
+NR_025758.1 ,Mahella ustraliensis, ,50-1 BON,,16S ribosomal RNA,partial sequence
+NR_074758.1 ,Sulfobacillus cidophilus, ,DSM 10332,,16S ribosomal RNA,partial sequence
+NR_109614.1 ,Caldicoprobacter uelmensis, ,,strain D2C22,16S ribosomal RNA,partial sequence
+NR_115681.1 ,Syntrophomonas recta, subsp. sporosyntropha,,strain 5-3-Z,16S ribosomal RNA,partial sequence
+NR_117593.1 ,Caldanaerobacter ubterraneus, ,,strain DSM 13054,16S ribosomal RNA,partial sequence
+NR_171390.1 ,Blautia rgi, ,,strain KCTC 15426,16S ribosomal RNA,complete sequence
+NR_027603.1 ,Desulfitobacterium afniense, ,DCB-2,,16S ribosomal RNA,partial sequence
+NR_102480.1 ,Halobacteroides alobius, ,DSM 5150,,16S ribosomal RNA,partial sequence
+NR_074793.2 ,Oscillibacter alericigenes, ,,strain Sjm18-20,16S ribosomal RNA,complete sequence
+NR_171388.1 ,Blautia rgi, ,,strain KCTC 15426,16S ribosomal RNA,complete sequence
+NR_025757.1 ,Cryptanaerobacter henolicus, ,,strain LR7.2,16S ribosomal RNA,partial sequence
+NR_028785.1 ,[Clostridium] cindens, ,,strain ATCC 35704,16S ribosomal RNA,partial sequence
+NR_104783.1 ,Acetivibrio thanolgignens, ,,strain 77-6,16S ribosomal RNA,partial sequence
+NR_113196.1 ,Moorella hermoacetica, ,,strain JCM 9319,16S ribosomal RNA,partial sequence
+NR_115338.1 ,[Desulfotomaculum] alinum, ,,strain 435,16S ribosomal RNA,partial sequence
+NR_117610.1 ,Thermoanaerobacter rockii, ,,strain DSM 1457,16S ribosomal RNA,partial sequence
+NR_156976.1 ,Desulfosporosinus ructosivorans, ,,strain 63.6F,16S ribosomal RNA,partial sequence
+NR_026044.1 ,Halanaerobium ongolense, ,,strain SEBR 4224,16S ribosomal RNA,partial sequence
+NR_044504.1 ,Fervidicola errireducens, ,,strain Y170,16S ribosomal RNA,partial sequence
+NR_044948.1 ,Desulfallas hermosapovorans, ,DSM 6562,strain MLF,16S ribosomal RNA,partial sequence
+NR_074723.1 ,Thermacetogenium haeum, ,DSM 12270,,16S ribosomal RNA,partial sequence
+NR_113393.1 ,Peptococcus iger, ,,strain JCM 6506,16S ribosomal RNA,partial sequence
+NR_117608.1 ,Thermoanaerobacter rockii, ,,strain DSM 1457,16S ribosomal RNA,partial sequence
+NR_117609.1 ,Thermoanaerobacter rockii, ,,strain DSM 1457,16S ribosomal RNA,partial sequence
+NR_171392.1 ,Blautia rgi, ,,strain KCTC 15426,16S ribosomal RNA,complete sequence
+NR_175571.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175572.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_074696.1 ,Mahella ustraliensis, ,50-1 BON,,16S ribosomal RNA,partial sequence
+NR_074701.1 ,Caldanaerobacter ubterraneus, subsp. tengcongensis,,strain MB4,16S ribosomal RNA,partial sequence
+NR_104866.1 ,Sporohalobacter ortetii, ,,strain MD-2,16S ribosomal RNA,partial sequence
+NR_026061.1 ,Desulfohalotomaculum alophilum, ,,strain SEBR 3139,16S ribosomal RNA,partial sequence
+NR_074685.1 ,Pelotomaculum hermopropionicum, ,SI,,16S ribosomal RNA,partial sequence
+NR_114543.1 ,Caldanaerobacter ubterraneus, subsp. tengcongensis,,strain MB4,16S ribosomal RNA,partial sequence
+NR_115693.1 ,Gracilibacter hermotolerans, ,JW/YJL-S1,,16S ribosomal RNA,partial sequence
+NR_117131.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117563.1 ,Faecalicatena issicatena, ,,,16S ribosomal RNA,partial sequence
+NR_117591.1 ,Caldanaerobacter ubterraneus, ,,strain DSM 13054,16S ribosomal RNA,partial sequence
+NR_117602.1 ,Sporohalobacter ortetii, ,,strain DSM 3070,16S ribosomal RNA,partial sequence
+NR_118801.1 ,Halanaerobium cetethylicum, ,,strain EIGI,16S ribosomal RNA,partial sequence
+NR_175570.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175577.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175578.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175579.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_024886.1 ,Fusibacter aucivorans, ,,strain SEBR 4211,16S ribosomal RNA,partial sequence
+NR_041882.1 ,Robinsoniella eoriensis, ,,strain PPC31,16S ribosomal RNA,partial sequence
+NR_040943.1 ,Sulfobacillus cidophilus, ,DSM 10332,,16S ribosomal RNA,partial sequence
+NR_074672.1 ,Acetohalobium rabaticum, ,DSM 5501,,16S ribosomal RNA,partial sequence
+NR_074681.1 ,Thermoanaerobacter athranii, subsp. mathranii ,str. A3,,16S ribosomal RNA,partial sequence
+NR_114757.1 ,Desulfofundulus uznetsovii, ,DSM 6115,strain 17,16S ribosomal RNA,partial sequence
+NR_117126.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117127.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117128.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117129.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117130.1 ,Faecalicatena rotica, ,,strain DSM 1287,16S ribosomal RNA,partial sequence
+NR_117592.1 ,Caldanaerobacter ubterraneus, ,,strain DSM 13054,16S ribosomal RNA,partial sequence
+NR_159146.1 ,Rhabdanaerobium hermarum, ,,strain SYSU GA15001,16S ribosomal RNA,complete sequence
+NR_171391.1 ,Blautia rgi, ,,strain KCTC 15426,16S ribosomal RNA,complete sequence
+NR_175568.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175574.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175576.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175580.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_103939.1 ,Desulfoscipio ibsoniae, ,DSM 7213,,16S ribosomal RNA,partial sequence
+NR_109724.1 ,Desulfovectis eckii, ,,strain LINDBHT1,16S ribosomal RNA,partial sequence
+NR_117140.1 ,Faecalicatena issicatena, ,,strain DSM 3598,16S ribosomal RNA,partial sequence
+NR_117147.1 ,Faecalicatena ontorta, ,,strain DSM 3982,16S ribosomal RNA,partial sequence
+NR_117354.1 ,Caldinitratiruptor icroaerophilus, ,,strain CA62N,16S ribosomal RNA,partial sequence
+NR_137378.1 ,Fusibacter ontis, ,,strain KhalAKB1,16S ribosomal RNA,partial sequence
+NR_175569.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_175581.1 ,Clostridium anihotivorum, ,,strain CT4,16S ribosomal RNA,partial sequence
+NR_025897.1 ,Thermoanaerobacter rockii, subsp. finnii,,strain AKo-1,16S ribosomal RNA,partial sequence
+NR_027608.1 ,Desulfofarcimen cetoxidans, ,,strain 5575,16S ribosomal RNA,partial sequence
+NR_044093.1 ,Proteiniborus thanoligenes, ,,strain GW,16S ribosomal RNA,partial sequence
+NR_074645.1 ,Filifactor locis, ,,strain ATCC 35896,16S ribosomal RNA,partial sequence
+NR_074652.1 ,Lachnoclostridium hytofermentans, ,,strain ISDg,16S ribosomal RNA,partial sequence
+NR_118983.1 ,Legionella ytica, ,,strain PCM 2298,16S ribosomal RNA,partial sequence
+NR_117713.1 ,Legionella ansingensis, ,,strain DSM 19556,16S ribosomal RNA,partial sequence
+NR_121730.1 ,Legionella akridgensis, ,,strain OR-10,16S ribosomal RNA,partial sequence
+NR_152697.1 ,Legionella aoudiensis, ,,strain LS-1,16S ribosomal RNA,partial sequence
+NR_104894.1 ,Legionella ackeliae, ,,strain Lancing 2,16S ribosomal RNA,partial sequence
+NR_171519.1 ,Legionella ingyii, ,,strain km488,16S ribosomal RNA,partial sequence
+NR_117699.1 ,Legionella piritensis, ,,strain Bibb HSH-9,16S ribosomal RNA,partial sequence
+NR_109415.1 ,Legionella assiliensis, ,,strain LegA,16S ribosomal RNA,partial sequence
+NR_104921.1 ,Legionella neumophila, subsp. fraseri,,strain Los Angelos-1,16S ribosomal RNA,partial sequence
+NR_109416.1 ,Legionella unisiensis, ,,strain LegM,16S ribosomal RNA,partial sequence
+NR_043927.1 ,Legionella aurinensis, ,,strain ATCC 700508,16S ribosomal RNA,partial sequence
+NR_117698.1 ,Legionella anticrucis, ,,strain SC-63-C7,16S ribosomal RNA,partial sequence
+NR_041321.1 ,Legionella mpletisoli, ,,strain OA1-1,16S ribosomal RNA,partial sequence
+NR_115062.1 ,Legionella resdenensis, ,,strain W03-356,16S ribosomal RNA,partial sequence
+NR_036805.1 ,Legionella allonii, ,,strain LLAP10,16S ribosomal RNA gene,partial sequence
+NR_026334.1 ,Legionella ytica, ,,strain L2,16S ribosomal RNA,partial sequence
+NR_146358.1 ,Legionella hermalis, ,,strain L-47,16S ribosomal RNA,partial sequence
+NR_025196.1 ,Legionella usanensis, ,,strain K9951,16S ribosomal RNA,partial sequence
+NR_074231.1 ,Legionella neumophila, ,,strain Philadelphia 1,16S ribosomal RNA,partial sequence
+NR_041790.1 ,Legionella aceachernii, ,,strain ATCC 35300,16S ribosomal RNA,partial sequence
+NR_118712.1 ,Legionella neumophila, ,,strain Philadelphia 1,16S ribosomal RNA,partial sequence
+NR_118717.1 ,Tatlockia icdadei, ,,strain TATLOCK,16S ribosomal RNA,partial sequence
+NR_026520.1 ,Legionella runensis, ,,strain 441-1,16S ribosomal RNA,partial sequence
+NR_118713.1 ,Legionella ackeliae, ,,strain Lansing-2,16S ribosomal RNA,partial sequence
+NR_118714.1 ,Legionella ongbeachae, ,,strain Long Beach-4,16S ribosomal RNA,partial sequence
+NR_044970.1 ,Legionella adsworthii, ,,strain NCTC 11532,16S ribosomal RNA,partial sequence
+NR_024968.1 ,Legionella eliardensis, ,,strain Montbeliard A1,16S ribosomal RNA,partial sequence
+NR_118715.1 ,Legionella piritensis, ,,strain Mt St Helens-9,16S ribosomal RNA,partial sequence
+NR_119018.1 ,Legionella ordanis, ,,strain ATCC 33623,16S ribosomal RNA,partial sequence
+NR_119020.1 ,Legionella ubrilucens, ,,strain ATCC 35304,16S ribosomal RNA,partial sequence
+NR_119026.1 ,Legionella incinnatiensis, ,,strain ATCC 43753,16S ribosomal RNA,partial sequence
+NR_119028.1 ,Legionella amestowniensis, ,,strain ATCC 35298,16S ribosomal RNA,partial sequence
+NR_044953.1 ,Legionella irminghamensis, ,,strain NCTC 12437,16S ribosomal RNA,partial sequence
+NR_119017.1 ,Legionella nisa, ,,strain ATCC 35292,16S ribosomal RNA,partial sequence
+NR_119019.1 ,Legionella akridgensis, ,,strain ATCC 33761,16S ribosomal RNA,partial sequence
+NR_119021.1 ,Legionella ainthelensi, ,,strain ATCC 35248,16S ribosomal RNA,partial sequence
+NR_119022.1 ,Legionella teigerwaltii, ,,strain ATCC 35302,16S ribosomal RNA,partial sequence
+NR_119023.1 ,Legionella adsworthii, ,,strain ATCC 33877,16S ribosomal RNA,partial sequence
+NR_119024.1 ,Legionella herrii, ,,strain ATCC 35252,16S ribosomal RNA,partial sequence
+NR_119025.1 ,Fluoribacter umoffii, ,NY 23,,16S ribosomal RNA,partial sequence
+NR_026117.1 ,Legionella eeleii, ,,strain WO-44C,16S ribosomal RNA,partial sequence
+NR_042906.1 ,Legionella ongbeachae, ,,strain ATCC 33462,16S ribosomal RNA,partial sequence
+NR_113235.1 ,Legionella neumophila, ,,strain JCM 7571,16S ribosomal RNA,partial sequence
+NR_116420.1 ,Legionella agasakiensis, ,,strain CDC-1796-JAP-E,16S ribosomal RNA,partial sequence
+NR_119027.1 ,Legionella sraelensis, ,,strain ATCC 43119,16S ribosomal RNA,partial sequence
+NR_036894.1 ,Legionella sraelensis, ,,strain Bercovier-4,16S ribosomal RNA,partial sequence
+NR_036992.1 ,Legionella ordanis, ,,strain BL-540,16S ribosomal RNA,partial sequence
+NR_041791.1 ,Tatlockia icdadei, ,,strain ATCC 33218,16S ribosomal RNA,partial sequence
+NR_036991.1 ,Legionella ubrilucens, ,,strain WA-270A-C2,16S ribosomal RNA,partial sequence
+NR_036804.1 ,Legionella owbothamii, ,,strain LLAP6,16S ribosomal RNA gene,partial sequence
+NR_029369.1 ,Legionella rythra, ,,strain SE-32A-C8,16S ribosomal RNA,partial sequence
+NR_041742.1 ,Legionella neumophila, subsp. pascullei,,strain U8W,16S ribosomal RNA,partial sequence
+NR_118943.1 ,Legionella aceachernii, ,,strain NCTC 11982,16S ribosomal RNA,partial sequence
+NR_026522.1 ,Legionella ucsonensis, ,,strain 087-AZ-H,16S ribosomal RNA,partial sequence
+NR_024969.1 ,Legionella altersii, ,,strain 2074-AUS-E,16S ribosomal RNA,partial sequence
+NR_036803.1 ,Legionella rozanskii, ,,strain LLAP1,16S ribosomal RNA gene,partial sequence
+NR_119320.1 ,Legionella hakespearei, ,,strain NCTC 12829,16S ribosomal RNA,partial sequence
+NR_044966.1 ,Legionella uinlivanii, ,,strain 1442-Aus-E,16S ribosomal RNA,partial sequence
+NR_028744.1 ,Legionella resilensis, ,,strain Greoux 11 D13,16S ribosomal RNA,partial sequence
+NR_044969.1 ,Legionella teigerwaltii, ,,strain NCTC 11991,16S ribosomal RNA,partial sequence
+NR_109426.1 ,Legionella ardiaca, ,,strain H63,16S ribosomal RNA,partial sequence
+NR_041322.1 ,Legionella abuuchiae, ,,strain OA1-2,16S ribosomal RNA,partial sequence
+NR_044952.1 ,Legionella delaidensis, ,,strain NCTC 12735,16S ribosomal RNA,partial sequence
+NR_036990.1 ,Legionella akridgensis, ,,strain OR-10,16S ribosomal RNA,partial sequence
+NR_044957.1 ,Legionella eestiana, ,,strain NCTC 12373,16S ribosomal RNA,partial sequence
+NR_044955.1 ,Legionella incinnatiensis, ,,strain NCTC 12438,16S ribosomal RNA,partial sequence
+NR_044971.1 ,Legionella orsleiensis, ,,strain NCTC 12377,16S ribosomal RNA,partial sequence
+NR_044956.1 ,Legionella airfieldensis, ,,strain NCTC 12488,16S ribosomal RNA,partial sequence
+NR_044959.1 ,Legionella amestowniensis, ,,strain NCTC 11981,16S ribosomal RNA,partial sequence
+NR_044963.1 ,Legionella ondiniensis, ,,strain NCTC 12374,16S ribosomal RNA,partial sequence
+NR_044962.1 ,Legionella oravica, ,,strain NCTC 12239,16S ribosomal RNA,partial sequence
+NR_044965.1 ,Legionella uateirensis, ,,strain 1335,16S ribosomal RNA,partial sequence
+NR_044964.1 ,Legionella arisiensis, ,,strain NCTC 11983,16S ribosomal RNA,partial sequence
+NR_044967.1 ,Legionella ainthelensi, ,,strain NCTC 11988,16S ribosomal RNA,partial sequence
+NR_044958.1 ,Legionella ratiana, ,,strain NCTC 12388,16S ribosomal RNA,partial sequence
+NR_036988.1 ,Legionella nisa, ,,strain WA-316-C3,16S ribosomal RNA,partial sequence
+NR_044961.1 ,Legionella autarum, ,,strain NCTC 12375,16S ribosomal RNA,partial sequence
+NR_044960.1 ,Legionella ansingensis, ,,strain NCTC 12830,16S ribosomal RNA,partial sequence
+NR_044954.1 ,Legionella herrii, ,,strain NCTC 11976,16S ribosomal RNA,partial sequence
+NR_117981.1 ,Legionella teelei, ,,strain IMVS-3376,16S ribosomal RNA,partial sequence
+NR_114433.1 ,Legionella aurinensis, ,,strain Turin I n#1,16S ribosomal RNA,partial sequence
+NR_026335.1 ,Legionella rancourtii, ,LLAP12,,16S ribosomal RNA,partial sequence
+NR_125584.1 ,Legionella ozemanae, ,,strain MDC1577,16S ribosomal RNA,partial sequence
+NR_121591.1 ,Thermoanaerobacter seudethanolicus, ,,strain 39E,16S ribosomal RNA,partial sequence
+NR_044618.1 ,Thermoanaerobacter hermohydrosulfuricus, ,,strain E100-69,16S ribosomal RNA,partial sequence
+NR_044619.1 ,Thermoanaerobacter thanolicus, ,,strain JW-200,16S ribosomal RNA,partial sequence
+NR_044620.1 ,Thermoanaerobacter cetoethylicus, ,,strain HTB2,16S ribosomal RNA,partial sequence
+NR_119001.1 ,Thermoanaerobacter cetoethylicus, ,,strain ATCC 33265,16S ribosomal RNA,partial sequence
+NR_075068.1 ,Desulfofundulus uznetsovii, ,DSM 6115,,16S ribosomal RNA,partial sequence
+NR_041819.1 ,Gelria lutamica, ,,strain TGO,16S ribosomal RNA,partial sequence
+NR_117588.1 ,Desulfofundulus uciae, ,,strain DSM 12396,16S ribosomal RNA,partial sequence
+NR_117589.1 ,Desulfofundulus uciae, ,,strain DSM 12396,16S ribosomal RNA,partial sequence
+NR_117590.1 ,Desulfofundulus uciae, ,,strain DSM 12396,16S ribosomal RNA,partial sequence
+NR_117587.1 ,Desulfofundulus uciae, ,,strain DSM 12396,16S ribosomal RNA,partial sequence
+NR_115129.1 ,Desulfofundulus uznetsovii, ,DSM 6115,strain 17,16S ribosomal RNA,complete sequence
+NR_115128.1 ,Desulfofundulus uznetsovii, ,DSM 6115,strain 17,16S ribosomal RNA,complete sequence
+NR_121797.1 ,Desulfitobacterium afniense, ,DCB-2,,16S ribosomal RNA,partial sequence
+NR_044617.1 ,Thermoanaerobacter ivui, ,,strain LKT-1,16S ribosomal RNA,partial sequence
+NR_122067.1 ,Desulfitobacterium afniense, ,DCB-2,,16S ribosomal RNA,partial sequence
+NR_117164.1 ,Ruminiclostridium ungatei, ,,strain DSM 14427,16S ribosomal RNA,partial sequence
+NR_156075.1 ,Lactobacillus olini, ,,strain 111144-L1,16S ribosomal RNA,partial sequence
+NR_133768.1 ,Lactobacillus odentium, ,,strain MYMRS/TLU1,16S ribosomal RNA,partial sequence
+NR_126253.1 ,Lactobacillus elsingborgensis, ,,strain Bma5N,16S ribosomal RNA,partial sequence
+NR_126252.1 ,Lactobacillus elliventris, ,,strain Hma8N,16S ribosomal RNA,partial sequence
+NR_126251.1 ,Lactobacillus ullabergensis, ,,strain Biut2N,16S ribosomal RNA,partial sequence
+NR_126250.1 ,Lactobacillus imbladii, ,,strain Hma2N,16S ribosomal RNA,partial sequence
+NR_125702.1 ,Lactobacillus pis, ,,strain R4B,16S ribosomal RNA,partial sequence
+NR_125548.1 ,Lactobacillus ominis, ,DSM 23910 = CRBIP 24.179,,16S ribosomal RNA,partial sequence
+NR_118877.1 ,Lactobacillus elbrueckii, ,,strain NCDO 213,16S ribosomal RNA,partial sequence
+NR_117074.1 ,Lactobacillus elbrueckii, ,,strain NCIB 8130,16S ribosomal RNA,partial sequence
+NR_117072.1 ,Lactobacillus ensenii, ,,strain Gasser 62G,16S ribosomal RNA,partial sequence
+NR_117071.1 ,Lactobacillus ntestinalis, ,,strain TH4,16S ribosomal RNA,partial sequence
+NR_117062.1 ,Lactobacillus cidophilus, ,,strain VPI 6032,16S ribosomal RNA,partial sequence
+NR_117058.1 ,Lactobacillus asteurii, ,DSM 23907 = CRBIP 24.76,strain 1517,16S ribosomal RNA,partial sequence
+NR_117057.1 ,Lactobacillus igeriorum, ,DSM 23908 = CRBIP 24.85,,16S ribosomal RNA,partial sequence
+NR_113387.1 ,Lactobacillus elbrueckii, subsp. sunkii,,strain YIT 11221,16S ribosomal RNA,partial sequence
+NR_112652.1 ,Lactobacillus quicursoris, ,DSM 19284 = JCM 14600 = CIP 110162,strain DI70,16S ribosomal RNA,partial sequence
+NR_029352.1 ,Lactobacillus mylolyticus, ,DSM 11664,strain LA 5,16S ribosomal RNA,partial sequence
+NR_075051.2 ,Lactobacillus asseri, ,ATCC 33323 = JCM 1131,,16S ribosomal RNA,complete sequence
+NR_136436.1 ,Lactobacillus ombicola, ,,strain R-53102,16S ribosomal RNA,partial sequence
+NR_126243.1 ,Lactobacillus elbrueckii, subsp. jakobsenii,,strain ZN7a-9,16S ribosomal RNA,partial sequence
+NR_125811.1 ,Lactobacillus sittaci, ,,,16S ribosomal RNA,partial sequence
+NR_125448.1 ,Lactobacillus sittaci, ,DSM 15354,strain JCM 11552,16S ribosomal RNA,partial sequence
+NR_119274.1 ,Lactobacillus rispatus, ,,strain DSM 20584,16S ribosomal RNA,partial sequence
+NR_118558.1 ,Lactobacillus elbrueckii, subsp. bulgaricus ,ATCC 11842 = JCM 1002,,16S ribosomal RNA,partial sequence
+NR_117812.1 ,Lactobacillus cidophilus, ,,strain JCM 1132,16S ribosomal RNA,partial sequence
+NR_117768.1 ,Lactobacillus elbrueckii, ,,strain DSM 20074,16S ribosomal RNA,partial sequence
+NR_117574.1 ,Lactobacillus ohnsonii, ,,strain CIP 103620,16S ribosomal RNA,partial sequence
+NR_117573.1 ,Lactobacillus asseri, ,,strain CIP 102991,16S ribosomal RNA,partial sequence
+NR_117076.1 ,Lactobacillus elbrueckii, subsp. lactis ,DSM 20072,,16S ribosomal RNA,partial sequence
+NR_117075.1 ,Lactobacillus elbrueckii, subsp. bulgaricus ,ATCC 11842 = JCM 1002,,16S ribosomal RNA,partial sequence
+NR_117073.1 ,Lactobacillus cetotolerans, ,DSM 20749 = JCM 3825,,16S ribosomal RNA,partial sequence
+NR_117070.1 ,Lactobacillus alixensis, ,,strain CCUG 48459,16S ribosomal RNA,partial sequence
+NR_117069.1 ,Lactobacillus mylolyticus, ,,strain CCUG 39901,16S ribosomal RNA,partial sequence
+NR_117068.1 ,Lactobacillus amsteri, ,,strain JCM 6256,16S ribosomal RNA,partial sequence
+NR_117067.1 ,Lactobacillus efiranofaciens, subsp. kefirgranum,,strain JCM 8572,16S ribosomal RNA,partial sequence
+NR_117066.1 ,Lactobacillus efiranofaciens, ,,strain ATCC 43761,16S ribosomal RNA,partial sequence
+NR_117065.1 ,Lactobacillus ltunensis, ,,strain CCUG 48460,16S ribosomal RNA,partial sequence
+NR_117064.1 ,Lactobacillus mylovorus, ,DSM 20531,,16S ribosomal RNA,partial sequence
+NR_117063.1 ,Lactobacillus rispatus, ,,strain DSM 20584,16S ribosomal RNA,partial sequence
+NR_117061.1 ,Lactobacillus allinarum, ,,strain ATCC 33199,16S ribosomal RNA,partial sequence
+NR_117060.1 ,Lactobacillus elveticus, ,DSM 20075 = CGMCC 1.1877,,16S ribosomal RNA,partial sequence
+NR_115132.1 ,Lactobacillus elbrueckii, ,,strain ATCC 9649,16S ribosomal RNA,partial sequence
+NR_115131.1 ,Lactobacillus elbrueckii, subsp. bulgaricus ,ATCC 11842 = JCM 1002,,16S ribosomal RNA,partial sequence
+NR_114903.1 ,Lactobacillus efiranofaciens, ,,strain LMG 19149,16S ribosomal RNA,partial sequence
+NR_114722.1 ,Lactobacillus allinarum, ,,strain ATCC 33199,16S ribosomal RNA,partial sequence
+NR_114168.1 ,Lactobacillus elbrueckii, subsp. lactis,,strain NBRC 102622,16S ribosomal RNA,partial sequence
+NR_113719.1 ,Lactobacillus elveticus, ,,strain NBRC 15019,16S ribosomal RNA,partial sequence
+NR_113639.1 ,Lactobacillus elbrueckii, subsp. bulgaricus,,strain NBRC 13953,16S ribosomal RNA,partial sequence
+NR_113638.1 ,Lactobacillus cidophilus, ,,strain NBRC 13951,16S ribosomal RNA,partial sequence
+NR_113575.1 ,Lactobacillus elbrueckii, ,,strain NBRC 3202,16S ribosomal RNA,partial sequence
+NR_113261.1 ,Lactobacillus allinarum, ,,strain JCM 2011,16S ribosomal RNA,partial sequence
+NR_112683.1 ,Lactobacillus cetotolerans, ,DSM 20749 = JCM 3825,,16S ribosomal RNA,partial sequence
+NR_044699.2 ,Lactobacillus cetotolerans, ,,strain DSM 20749,16S ribosomal RNA,partial sequence
+NR_104969.1 ,Lactobacillus eichmannii, ,,strain LMG 13136,16S ribosomal RNA,partial sequence
+NR_104836.1 ,Lactobacillus ogosae, ,,strain ATCC 27753,16S ribosomal RNA,partial sequence
+NR_075019.1 ,Lactobacillus elbrueckii, subsp. bulgaricus ,ATCC 11842 = JCM 1002,,16S ribosomal RNA,partial sequence
+NR_043183.1 ,Lactobacillus elbrueckii, ,,strain BCRC 12195,16S ribosomal RNA,partial sequence
+NR_043182.1 ,Lactobacillus cidophilus, ,,strain BCRC10695,16S ribosomal RNA,partial sequence
+NR_042802.1 ,Lactobacillus ltunensis, ,,strain Kx146C1,16S ribosomal RNA,partial sequence
+NR_042441.1 ,Lactobacillus efiranofaciens, subsp. kefirgranum,,strain DSM 10550,16S ribosomal RNA,partial sequence
+NR_042440.1 ,Lactobacillus efiranofaciens, ,,strain WT-2B,16S ribosomal RNA,partial sequence
+NR_042439.1 ,Lactobacillus elveticus, ,DSM 20075 = CGMCC 1.1877,,16S ribosomal RNA,partial sequence
+NR_042111.1 ,Lactobacillus allinarum, ,,strain ATCC 33199,16S ribosomal RNA,partial sequence
+NR_041800.1 ,Lactobacillus rispatus, ,,strain ATCC 33820,16S ribosomal RNA,partial sequence
+NR_044507.1 ,Lactobacillus aiwanensis, ,,strain BCRC 17755,16S ribosomal RNA,partial sequence
+NR_043287.1 ,Lactobacillus mylovorus, ,DSM 20531,,16S ribosomal RNA,partial sequence
+NR_042728.1 ,Lactobacillus elbrueckii, subsp. lactis, DSM 20072,strain ATCC 12315,16S ribosomal RNA,partial sequence
+NR_029106.1 ,Lactobacillus elbrueckii, subsp. indicus,,strain NCC725,16S ribosomal RNA,partial sequence
+NR_029083.1 ,Lactobacillus alixensis, ,,strain Kx127A2,16S ribosomal RNA,partial sequence
+NR_025449.1 ,Lactobacillus ntestinalis, ,,strain DSM 6629,16S ribosomal RNA,partial sequence
+NR_025448.1 ,Lactobacillus amsteri, ,,strain DSM 5661,16S ribosomal RNA,partial sequence
+NR_025273.1 ,Lactobacillus ohnsonii, ,,strain ATCC 33200,16S ribosomal RNA,partial sequence
+NR_025087.1 ,Lactobacillus ensenii, ,,strain ATCC 25258,16S ribosomal RNA,partial sequence
+NR_024885.1 ,Lactobacillus elangorensis, ,,strain LMG 17710,16S ribosomal RNA,partial sequence
+NR_024813.1 ,Lactobacillus itasatonis, ,,strain JCM 1039,16S ribosomal RNA,partial sequence
+NR_026509.1 ,Lactobacillus ornicalis, ,,strain TV1018,16S ribosomal RNA,partial sequence
+NR_041920.1 ,Lactobacillus asseri, ,ATCC 33323 = JCM 1131,,16S ribosomal RNA,partial sequence
+NR_036982.1 ,Lactobacillus ners, ,,strain DSM 13335,16S ribosomal RNA gene,partial sequence
+NR_112585.1 ,Streptomyces hermocarboxydus, ,,strain NBRC 16323,16S ribosomal RNA,partial sequence
+NR_112204.1 ,Brevibacillus revis, ,,strain DSM 30,16S ribosomal RNA,partial sequence
+NR_115953.1 ,Priestia ryabhattai, ,B8W22,,16S ribosomal RNA,partial sequence
+NR_112372.1 ,Streptomyces okosukanensis, ,,strain NBRC 13108,16S ribosomal RNA,partial sequence
+NR_036907.1 ,Staphylococcus ylosus, ,,strain KL 162,16S ribosomal RNA,partial sequence
+NR_025871.2 ,Streptomyces endae, ,,strain ATCC 19812,16S ribosomal RNA,complete sequence
+NR_114647.1 ,Streptomyces exicanus, ,,strain CH-M-1035,16S ribosomal RNA,partial sequence
+NR_102783.2 ,Bacillus ubtilis, subsp. subtilis,,strain 168,16S ribosomal RNA,complete sequence
+NR_041186.1 ,Streptomyces riseoaurantiacus, ,,strain NBRC 15440,16S ribosomal RNA,partial sequence
+NR_114074.1 ,Acinetobacter adioresistens, ,,strain NBRC 102413,16S ribosomal RNA,partial sequence
+NR_115388.1 ,Streptomyces alvus, ,,strain CSSP532,16S ribosomal RNA,partial sequence
+NR_115231.1 ,Streptomyces riseoaurantiacus, ,,strain DSM 40430,16S ribosomal RNA,partial sequence
+NR_042191.1 ,Pseudomonas sychrotolerans, ,,strain C36,16S ribosomal RNA,partial sequence
+NR_159271.1 ,Streptomyces innabarigriseus, ,,strain JS360,16S ribosomal RNA,partial sequence
+NR_040857.1 ,Streptomyces alilaeus, ,,strain JCM 4757,16S ribosomal RNA,partial sequence
+NR_165725.1 ,Brevibacillus ntibioticus, ,,strain TGS2-1,16S ribosomal RNA,partial sequence
+NR_157735.1 ,Bacillus roteolyticus, ,,strain MCCC 1A00365,16S ribosomal RNA,partial sequence
+NR_112116.2 ,Bacillus ubtilis, ,,strain IAM 12118,16S ribosomal RNA,complete sequence
+NR_026187.1 ,Arthrobacter lobiformis, ,,strain DSM 20124,16S ribosomal RNA,partial sequence
+NR_149214.1 ,Lentzea hajnantorensis, ,,strain H45,16S ribosomal RNA,partial sequence
+NR_025548.1 ,Microbacterium araoxydans, ,,strain CF36,16S ribosomal RNA,partial sequence
+NR_074244.1 ,Methylobacterium adiotolerans, ,JCM 2831,,16S ribosomal RNA,partial sequence
+NR_074215.1 ,Methylorubrum xtorquens, ,CM4,,16S ribosomal RNA,partial sequence
+NR_145603.1 ,Caballeronia oncitans, ,,strain LMG 29315,16S ribosomal RNA,partial sequence
+NR_115034.1 ,Curtobacterium itreum, ,,strain DSM 20528,16S ribosomal RNA,partial sequence
+NR_074902.1 ,Escherichia ergusonii, ,ATCC 35469,,16S ribosomal RNA,complete sequence
+NR_136867.1 ,Streptomyces yslabdanicus, ,,strain K04-0144,16S ribosomal RNA,partial sequence
+NR_042136.1 ,Peribacillus implex, ,NBRC 15720 = DSM 1321,,16S ribosomal RNA,partial sequence
+NR_042295.1 ,Streptomyces lobosus, ,,strain LMG 19896,16S ribosomal RNA,partial sequence
+NR_036904.1 ,Staphylococcus pidermidis, ,,strain Fussel,16S ribosomal RNA,partial sequence
+NR_125619.1 ,Streptomyces ratensis, ,,strain ch24,16S ribosomal RNA,partial sequence
+NR_042937.1 ,Cellulosimicrobium unkei, ,,strain W6122,16S ribosomal RNA,partial sequence
+NR_042072.1 ,Lysinibacillus usiformis, ,,strain DSM 2898,16S ribosomal RNA,partial sequence
+NR_113957.1 ,Staphylococcus pidermidis, ,,strain NBRC 100911,16S ribosomal RNA,partial sequence
+NR_125706.1 ,Streptomyces iujiangensis, ,,strain JXJ 0074,16S ribosomal RNA,partial sequence
